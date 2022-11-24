@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.spinner-border.custom-spinner-color {
+  color: lightcoral;
+}
